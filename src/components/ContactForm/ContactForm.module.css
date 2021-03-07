@@ -1,0 +1,11 @@
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Mukta', sans-serif;
+}
+
+.contact_form label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

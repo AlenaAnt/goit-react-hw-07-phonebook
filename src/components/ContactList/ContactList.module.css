@@ -1,0 +1,12 @@
+.contact_list {
+  font-family: 'Mukta', sans-serif;
+}
+.contact_list li {
+  list-style: none;
+  margin-top: 20px;
+}
+.contact_list li::before {
+  content: '\02BA9';
+  color: #0e0e0e;
+  padding-right: 11px;
+}
